@@ -1,0 +1,35 @@
+.photo{
+    width:150px;
+    height:150px;
+}
+
+.photo img{
+    min-height: 150px;
+    min-width:150px;
+    width:150px;
+}
+
+.title{
+    font-size: 20px;
+
+}
+
+ul,
+li{
+    list-style: none;
+    padding: 5px;
+}
+
+.container{
+display: flex;
+background: lightblue;
+border: 2px solid black;
+margin:0;
+
+}
+
+.link{
+    font-size: 16px;
+
+}
+
